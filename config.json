@@ -1,0 +1,14 @@
+{
+  "__URI_Coment__": "企业微信机器人网址前缀",
+  "URL": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=",
+  "__WeChat_Robot_01__": "企业微信机器人KEY",
+  "gitlab_key_01": "wechat_robot_key_01",
+  "__WeChat_Robot_02__": "企业微信机器人KEY",
+  "gitlab_key_02": "wechat_robot_key_02",
+  "__WeChat_Robot_03__": "企业微信机器人KEY",
+  "gitlab_key_03": "wechat_robot_key_03",
+  "__WeChat_Robot_04__": "企业微信机器人KEY",
+  "gitlab_key_04": "wechat_robot_key_04",
+  "__WeChat_Robot_05__": "企业微信机器人KEY",
+  "gitlab_key_05": "wechat_robot_key_05"
+}
